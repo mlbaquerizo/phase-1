@@ -1,0 +1,8 @@
+
+Active Record makes working with and handling databases a more seamless
+experience with Ruby. We are able to run commands that mimic SQL queries to
+create, read, update, and delete from databases directly with Ruby.
+
+Although it is a bit confusing at the moment with all the new commands, as
+someone who learns by doing, I hope it will come to me more naturally as I
+continue to work with Active Record.
